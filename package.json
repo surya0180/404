@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
+    "@types/node": "^22.7.5",
     "@types/react": "^18.3.10",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.2",
@@ -29,5 +30,5 @@
     "typescript-eslint": "^8.7.0",
     "vite": "^5.4.8"
   },
-  "homepage": "https://github.com/surya0180/404"
+  "homepage": "https://surya0180.github.io/404/"
 }
